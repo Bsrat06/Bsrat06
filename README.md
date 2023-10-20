@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-vector/programmers-day-banner-design_1308-114298.jpg?w=740&t=st=1689432947~exp=1689433547~hmac=8355c70b3ef9f351fed4ed6fc2ade5f94f56879dba0e204d13c8b9beb8c97aed)
 <h1 align="center">Hi 👋, I'm Bsrat</h1>
 <h3 align="center">A passionate programmer</h3>
 <img align="right" alt="Programming" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
