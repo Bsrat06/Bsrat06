@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Explanatory data analysis using python**
 
-- 🌱 I’m currently learning **numpy, pandas, matplotlib**
+- 🌱 I’m currently learning **pandas, sklearn, matplotlib**
 
-- 👯 I’m looking to collaborate on **Web application development**
+- 👯 I’m looking to collaborate on **Explanatory Data Analysis**
 
-- 💬 Ask me about **Python, Django, PHP**
+- 💬 Ask me about **Python, pandas, PHP**
 
 - 📫 How to reach me **bsratmulugetasergawie@gmail.com**
 
