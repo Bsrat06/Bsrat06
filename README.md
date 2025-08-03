@@ -73,12 +73,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bsrat06&show_icons=true&theme=radical" alt="Bsrat's GitHub stats" />
-</p>
-
----
-
 > ⚡ *"I believe in building scalable, efficient, and maintainable systems that solve real-world problems."*
